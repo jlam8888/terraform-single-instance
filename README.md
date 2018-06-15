@@ -25,6 +25,8 @@ The rest of the steps will be manual unfortunately but i dont believe we should 
 Tried to create asg and alb via terraform. Unable to complete, unsure how to do this, did start creating aws_launch_configuration /aws_alb / 
 security groups eventually ran out of time. 
 
-And finally the url
+And finally the urls that sit behind the alb
+
 https://jlamhelloworld.co.uk/
+
 https://www.jlamhelloworld.co.uk/
